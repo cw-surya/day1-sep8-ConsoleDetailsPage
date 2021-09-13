@@ -1,0 +1,13 @@
+C:\Users\suraj\Desktop\training\day1-sep8\basics\bin\Debug\netcoreapp3.1\basics.exe
+C:\Users\suraj\Desktop\training\day1-sep8\basics\bin\Debug\netcoreapp3.1\basics.deps.json
+C:\Users\suraj\Desktop\training\day1-sep8\basics\bin\Debug\netcoreapp3.1\basics.runtimeconfig.json
+C:\Users\suraj\Desktop\training\day1-sep8\basics\bin\Debug\netcoreapp3.1\basics.runtimeconfig.dev.json
+C:\Users\suraj\Desktop\training\day1-sep8\basics\bin\Debug\netcoreapp3.1\basics.dll
+C:\Users\suraj\Desktop\training\day1-sep8\basics\bin\Debug\netcoreapp3.1\basics.pdb
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.csprojAssemblyReference.cache
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.AssemblyInfoInputs.cache
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.AssemblyInfo.cs
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.csproj.CoreCompileInputs.cache
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.dll
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.pdb
+C:\Users\suraj\Desktop\training\day1-sep8\basics\obj\Debug\netcoreapp3.1\basics.genruntimeconfig.cache
